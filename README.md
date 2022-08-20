@@ -16,11 +16,11 @@
 |Google Certified Professional Cloud Architect|2017/12 ~ |
 |Google Certified Professional Data Engineer|2018/01 ~ |
 |Google Certified Professional Cloud Developer|2019/01 ~ |
+|Google Certified Professional DevOps Engineer|2019/01 ~ |
 |Certified Kubernetes Administrator|2019/12 ~ |
 |Google Cloud Authorized Trainer|2018/05 ~ |
 |Google Certified Associate Cloud Engineer|2018/08 ~ 2020/08|
 |Google Certified Security Engineer|2019/01 ~ 2021/01|
-|Google Certified Professional DevOps Engineer|2019/01 ~ 2021/1|
 |Certified Kubernetes Application Developer|2019/03 ~ 2022/03|
 
 
