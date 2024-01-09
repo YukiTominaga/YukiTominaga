@@ -14,8 +14,10 @@
 |Google Certified Professional Data Engineer|2018/01 ~ |
 |Google Certified Professional Cloud Developer|2019/01 ~ |
 |Google Certified Professional DevOps Engineer|2019/01 ~ |
+|Google Certified Professional Database Engineer|2023/09 ~ |
 |Certified Kubernetes Administrator|2019/12 ~ |
 |Google Cloud Authorized Trainer|2018/05 ~ |
+|Linux Foundation 認定トレーナー|2023/12 ~ |
 |Google Certified Associate Cloud Engineer|2018/08 ~ 2020/08|
 |Google Certified Security Engineer|2019/01 ~ 2021/01|
 |Certified Kubernetes Application Developer|2019/03 ~ 2022/03|
@@ -32,7 +34,9 @@
 
 ### その他
 
+- LangChain
 - Angular
+- Next.js
 - NestJS
 - GraphQL
 - gRPC
@@ -65,16 +69,11 @@
 - 習得すべきことに対して `空き時間の全てを費やす` という姿勢
 - 技術レベルの多様性を認めること
 
-## やったことはないが興味があるもの
-
-- エンジニア組織の形成
-- アプリケーション開発 with Flutter
-
 ## 職務経歴
 
-### 2022/04 ~ 現在 : クラウドエース株式会社 システム開発部 マネージャ
+### 2022/04 ~ 現在 : クラウドエース株式会社 システム開発統括部 Expert
 
-職務: チームのピープルマネジメントとテクニカルマネジメント、Google Cloudのコンサルティング及び開発とそれらに伴うプロジェクトリード
+職務: チームのテクニカルマネジメント、Google Cloudのコンサルティング及び開発とそれらに伴うプロジェクトリード
 
 ### 2020/04 - 2022/03 : 株式会社スクウェア・エニックス 情報システム部 Global Infrastructure for Online Gaming
 
