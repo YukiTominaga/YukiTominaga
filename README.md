@@ -7,6 +7,11 @@
 ## 資格
 |Certificate|valid|
 |---|---|
+|絶バハムート討滅戦|済|
+|絶アルテマウェポン破壊作戦|済|
+|絶アレキサンダー討滅戦|済|
+|絶竜詩戦争|済|
+|絶オメガ検証戦|済|
 |Google Certified Professional Cloud Architect|2017/12 ~ |
 |Google Certified Professional Data Engineer|2018/01 ~ |
 |Google Certified Professional Cloud Developer|2019/01 ~ |
@@ -62,7 +67,7 @@
 - Google Cloud Platformへの深い知識
 - パブリッククラウド技術の追い方
 - 人前で話す場や顧客との折衝で明るく振る舞う
-- FFXIV 8000時間以上プレイ
+- FFXIV 9000時間以上プレイ
 - 習得すべきことに対して `空き時間の全てを費やす` という姿勢
 - 技術レベルの多様性を認めること
 
