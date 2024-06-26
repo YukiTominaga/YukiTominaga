@@ -31,7 +31,7 @@
 - TypeScript/JavaScript(他人のコードをレビューできる)
 - Go(書き捨てのコードで使う)
 - Java(Apache Beamでのみ利用する)
-- Python(やりたくない)
+- Python(本当にいろいろな用途で使う)
 - PHP(やりたくない)
 
 ### その他
