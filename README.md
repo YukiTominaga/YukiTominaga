@@ -7,12 +7,7 @@
 ## 資格
 |Certificate|valid|
 |---|---|
-|絶バハムート討滅戦|済|
-|絶アルテマウェポン破壊作戦|済|
-|絶アレキサンダー討滅戦|済|
-|絶竜詩戦争|済|
-|絶オメガ検証戦|済|
-|Google Certified Professional Cloud Architect|2017/12 ~ |
+ional Cloud Architect|2017/12 ~ |
 |Google Certified Professional Data Engineer|2018/01 ~ |
 |Google Certified Professional Cloud Developer|2019/01 ~ |
 |Google Certified Professional DevOps Engineer|2019/01 ~ |
