@@ -7,7 +7,7 @@
 ## 資格
 |Certificate|valid|
 |---|---|
-ional Cloud Architect|2017/12 ~ |
+|Google Certified Professional Cloud Architect|2017/12 ~ |
 |Google Certified Professional Data Engineer|2018/01 ~ |
 |Google Certified Professional Cloud Developer|2019/01 ~ |
 |Google Certified Professional DevOps Engineer|2019/01 ~ |
