@@ -15,9 +15,6 @@
 |Certified Kubernetes Administrator|2019/12 ~ |
 |Google Cloud Authorized Trainer|2018/05 ~ |
 |Linux Foundation 認定トレーナー|2023/12 ~ |
-|Google Certified Associate Cloud Engineer|2018/08 ~ 2020/08|
-|Google Certified Security Engineer|2019/01 ~ 2021/01|
-|Certified Kubernetes Application Developer|2019/03 ~ 2022/03|
 
 
 ## スキル
