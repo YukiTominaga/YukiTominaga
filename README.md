@@ -1,5 +1,7 @@
 # 職務経歴書
 
+docs版は[こちら](https://docs.google.com/document/d/1Fmyh2pIbzp8aHPFgW-RX64NmhNGLfzFS/edit?usp=sharing&ouid=106676130102790539814&rtpof=true&sd=true)からご参照ください
+
 |key|value|
 |---|-----|
 |Name|富永 裕貴 (Yuki Tominaga)|
