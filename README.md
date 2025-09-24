@@ -71,7 +71,7 @@ docs版は[こちら](https://docs.google.com/document/d/1Fmyh2pIbzp8aHPFgW-RX64
 - Google Cloud Platformへの深い知識
 - パブリッククラウド技術の追い方
 - 人前で話す場や顧客との折衝で明るく振る舞う
-- FFXIV 9000時間以上プレイ
+- FFXIV 10,000時間以上プレイ
 - 習得すべきことに対して `空き時間の全てを費やす` という姿勢
 - 技術レベルの多様性を認めること
 
