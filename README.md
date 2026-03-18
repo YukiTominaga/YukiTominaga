@@ -1,7 +1,5 @@
 # 職務経歴書
 
-docs版は[こちら](https://docs.google.com/document/d/1Fmyh2pIbzp8aHPFgW-RX64NmhNGLfzFS/edit?usp=sharing&ouid=106676130102790539814&rtpof=true&sd=true)からご参照ください
-
 |key|value|
 |---|-----|
 |Name|富永 裕貴 (Yuki Tominaga)|
@@ -44,6 +42,10 @@ docs版は[こちら](https://docs.google.com/document/d/1Fmyh2pIbzp8aHPFgW-RX64
 - Docker
 - Hasura
 - Firebase (主にWeb向け)
+- Dify
+- n8n
+
+Difyやn8nはKubernetesでセルフホストをして運用しています。
 
 ### リーダー及びマネジメント
 
@@ -56,7 +58,6 @@ docs版は[こちら](https://docs.google.com/document/d/1Fmyh2pIbzp8aHPFgW-RX64
 ただ機能を開発するだけではなく、アベイラビリティ、レイテンシ、セキュリティ、トイルの撲滅といったSREと呼ばれている領域について考慮ができます。
 新卒や中途の経験の浅いチームメンバーを率いて、開発プロジェクトを進行させ、案件を辻て技術的な教育も平行できるPM能力と技術力及びリーダーシップそ備えています。
 自身をフルスタックエンジニアだと考えたことはなく、その時必要なことを全力でやってたら、気づいたらいろんなことができるようになっているつもりです。
-
 
 ## 言語
 
@@ -73,9 +74,20 @@ docs版は[こちら](https://docs.google.com/document/d/1Fmyh2pIbzp8aHPFgW-RX64
 - 人前で話す場や顧客との折衝で明るく振る舞う
 - FFXIV 10,000時間以上プレイ
 - 習得すべきことに対して `空き時間の全てを費やす` という姿勢
+  - ライフステージが変化して空き時間をテクノロジーに費やす優先順位は下がっています
 - 技術レベルの多様性を認めること
 
 ## 職務経歴
+
+### 2025/04 ~ 個人事業主
+
+主に生成AIやDifyを活用したアプリケーション開発のリードをしています。
+
+Google Cloudのインフラの設計から運用の面倒を見ることまで大体全部できます。
+
+ほぼリモートでお仕事をさせていただいております。
+
+結構健康です。
 
 ### 2022/04 ~ 2025/03 : クラウドエース株式会社 CTO室
 
